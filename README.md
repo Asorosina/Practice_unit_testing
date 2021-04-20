@@ -1,1 +1,1 @@
-# Practice_unit_testing
+# Java exercise to practice unit testing with JUnit
